@@ -159,8 +159,12 @@ body {
     border-color: #29C5F6;
 }
 
-#social-links li a.dribbble:hover {
+#social-links li a.github:hover {
     border-color: #F85993;
+}
+
+#social-links li a.blog:hover {
+    border-color: #20B2AA;
 }
 
 #social-links li a.facebook:hover {
